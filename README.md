@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Siddhesh 👋
 
-<!--
-**siddheshxbhosale777-crypto/siddheshxbhosale777-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Science and Psychology student currently transitioning from academic theory to building real-world software. My current focus is on developing scalable digital solutions for the industrial sector.
 
-Here are some ideas to get you started:
+### 🚀 What I'm Working On
+- Developing a full-stack web application for a local manufacturing business.
+- Building responsive user interfaces and structuring relational databases.
+- Strengthening my problem-solving skills through daily Data Structures and Algorithms (DSA) practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack 
+- **Languages:** Python, JavaScript, C
+- **Frontend:** HTML, Tailwind CSS, React
+- **Database Architecture:** PostgreSQL, REST APIs
+
+### 📫 Connect With Me
+I'm spending this summer building and coding. 
+- **Email:** siddheshxbhosale777@gmail.com/ siddhesh_bhosale.sias24@krea.ac.in
+- **LinkedIn:** linkedin.com/in/siddhesh-bhosale-038bab337
